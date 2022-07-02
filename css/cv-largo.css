@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+  text-align: justify;
+  background-color: #eeeeee;
+}
+
+p {
+  background-color: #cccccc;
+  line-height: 150%;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  background-color: #888888;
+  color: red;
+  text-transform: capitalize;
+}
+
+h3 {
+  background-color: #aaaaaa;
+  color: DarkMagenta;
+}
+
+.strong-blue {
+  color: blue;
+  text-decoration: underline;
+}
+
+.strong-green {
+  font-weight: normal;
+  color: green;
+}
+
+adress {
+  background-color: white;
+  text-align: right;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.footer-fixed {
+  text-align: center;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  border-top: 2px black solid;
+  font-size: 13px;
+  height: 30px;
+  line-height: 25px;
+}
+
+a {
+  color: blue;
+  font-style: italic;
+}
+
+cite {
+  font-style: normal;
+}
